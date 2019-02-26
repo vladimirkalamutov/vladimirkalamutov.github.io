@@ -1,0 +1,58 @@
+{
+        "bed" : {
+            "name" : "Кровать для малышей",
+            "article" : "000145234",
+            "image" : "img/bed.png",
+            "price" : 999,
+            "order" : 1
+        },
+        "bear" : {
+            "name" : "Медведь плюшевый",
+            "article" : "000198234",
+            "image" : "img/bear.png",
+            "price" : 600,
+            "order" : 2
+        },
+        "baby" : {
+            "name" : "Коляска для малышей",
+            "article" : "000793485",
+            "image" : "img/baby.png",
+            "price" : 2599,
+            "order" : 3
+        },
+        "bottle" : {
+            "name" : "Бутылка с соской для малышей",
+            "article" : "000938443",
+            "image" : "img/bottle.png",
+            "price" : 300,
+            "order" : 4
+        },
+        "toys" : {
+            "name" : "Навесные игрушки для кроватки",
+            "article" : "000134233",
+            "image" : "img/toys.png",
+            "price" : 500,
+            "order" : 5
+        },
+        "yula" : {
+            "name" : "Юла детская (волчок)",
+            "article" : "000774374",
+            "image" : "img/yula.png",
+            "price" : 780,
+            "order" : 6
+        },
+        "bass" : {
+            "name" : "Барабан с палкой",
+            "article" : "000134925",
+            "image" : "img/bass.png",
+            "price" : 1000,
+            "order" : 7
+        },
+        "dish" : {
+            "name" : "Вилочка с ложечкой",
+            "article" : "000138402",
+            "image" : "img/dish.png",
+            "price" : 399,
+            "order" : 8
+        }
+}
